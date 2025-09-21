@@ -71,13 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=ResumeOptimizer&theme=tokyonight" height="180"/>
 </p>
 
-<style>
-  img:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s;
-  }
-</style>
-
 ---
 
 ### ⚡ Fun Fact
