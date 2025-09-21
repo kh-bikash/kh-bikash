@@ -25,7 +25,7 @@
 - 💬 Ask me about **Python, AI Strategy, Startup Development**  
 - 📝 Writing articles on [LinkedIn](https://www.linkedin.com/in/bikash-kh-5544ba298/)  
 - 👨‍💻 All my projects → [GitHub](https://github.com/kh-bikash)  
-- 📄 My Resume → [View here](https://drive.google.com/file/d/123BKkLF5cOsoXnHyVsx3il_LYZxj6Dz/view?usp=drive_link)  
+- 📄 My Resume → [View here](https://drive.google.com/file/d/123BKkLF5cOsoXnHyVsx3il_LYZxjJ6Dz/view?usp=drive_link)  
 - 📫 Reach me → **khbikash17@gmail.com**  
 - ⚡ Fun fact: *I think I’m funnier than my code sometimes 😅*  
 
@@ -56,22 +56,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kh-bikash&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 🌟 Featured Repositories (Top 6 by Stars)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=ReflexCube&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=StudentYatra&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=CMS-Project&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=AI-VoiceCloner&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=CollegeCourseRegistration&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=ResumeOptimizer&theme=tokyonight" height="180"/>
-</p>
-
----
-
-### ⚡ Fun Fact
-I think I’m funnier than my code sometimes 😅
+</p> in this i also want to deign how the repositories are shown can u provide cool design
