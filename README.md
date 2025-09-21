@@ -60,10 +60,15 @@
 
 ---
 
-### 🌟 Featured Repositories (Top 6 by Stars – Auto)
+### 🌟 Featured Repositories (Top 6 by Stars)
 
-<p align="center" id="top-repos">
-<!-- Top repos will be dynamically updated via GitHub Action -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=ReflexCube&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=StudentYatra&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=CMS-Project&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=AI-VoiceCloner&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=CollegeCourseRegistration&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=ResumeOptimizer&theme=tokyonight" height="180"/>
 </p>
 
 <style>
