@@ -56,4 +56,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kh-bikash&theme=tokyonight" height="160"/>
-</p> in this i also want to deign how the repositories are shown can u provide cool design
+</p>
