@@ -35,10 +35,6 @@
 
 ## 📈 Impact Metrics (What I Actually Build)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
-</p>
-
 - 🚀 Built **production-grade systems**, not just demos
 - 🧩 Designed databases with **40+ relational tables**
 - 🔐 Implemented **Role-Based Access Control (RBAC)** across platforms
