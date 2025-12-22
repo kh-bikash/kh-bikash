@@ -35,9 +35,7 @@
 
 ## 📈 Impact Metrics (What I Actually Build)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjM4ZDU3NzQxYmY3NzEzZTM2N2JhN2M2ZWI0Njk0OTBjNTY2MWQzYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZsZKbgw4QVWEbzG/giphy.gif" width="480" /> </p>
 
 - 🚀 Built **production-grade systems**, not just demos
 - 🧩 Designed databases with **40+ relational tables**
@@ -51,9 +49,7 @@
 
 ## 🌍 Live Deployments
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE3ZWI1YjA2YzI3ZTI4MjZmOTQ3NmU5M2Y2OTQyOTc4ZjNjZjU4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif" width="480" /> </p>
 
 ### 🎓 Nova University ERP
 - 🌐 Live: https://nova-university-erp.vercel.app/
@@ -70,9 +66,7 @@
 
 ## 🧠 Architecture & RBAC (System Thinking)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="500"/>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzQ0MzNiNjQ4Zjk2MjA2MTA0NTFjZjIzMjQ2NTE3NzI5YjQ1N2Q5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="480" /> </p>
 
 ### 🔐 Role-Based Access Control (RBAC)
 - Admin → full system control  
