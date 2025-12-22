@@ -51,10 +51,6 @@
 
 ## 🌍 Live Deployments
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
-</p>
-
 ### 🎓 Nova University ERP
 - 🌐 Live: https://nova-university-erp.vercel.app/
 - 🔐 Multi-role system (Admin, Faculty, Student)
@@ -69,10 +65,6 @@
 ---
 
 ## 🧠 Architecture & RBAC (System Thinking)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="500"/>
-</p>
 
 ### 🔐 Role-Based Access Control (RBAC)
 - Admin → full system control  
