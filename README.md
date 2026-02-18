@@ -86,7 +86,7 @@
   <a href="https://linkedin.com/in/bikash-kh-5544ba298/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://www.codechef.com/users/khbikash" target="_blank">
+  <a href="https://www.codechef.com/users/kh_bikash22" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40"/>
   </a>
   <a href="https://leetcode.com/u/bikashkh/" target="_blank">
