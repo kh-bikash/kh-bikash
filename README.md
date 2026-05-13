@@ -371,9 +371,9 @@ class ReflexCubeArchitecture:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kh-bikash&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-bikash&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kh-bikash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=1800" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-bikash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9&langs_count=8&cache_seconds=1800" height="180"/>
 
 </div>
 
