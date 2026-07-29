@@ -1,71 +1,138 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/main/assets/profile-hero.svg" width="100%" alt="Khundrakpam Bikash Meitei — AI engineer and full-stack builder" />
+<!-- Animated hero: no repository asset required -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:070B12,35:0D1117,70:0E4429,100:238636&height=230&section=header&text=KHUNDRAKPAM%20BIKASH%20MEITEI&fontSize=37&fontColor=F0F6FC&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Visual%20Systems&descAlignY=60&descSize=16&animation=fadeIn"
+  width="100%"
+  alt="Khundrakpam Bikash Meitei — AI Engineer, Full-Stack Builder, Visual Systems"
+/>
+
+<!-- Animated typing line -->
+<a href="https://github.com/kh-bikash">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=7EE787&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Building+AI+products+you+can+actually+run;README+%E2%86%92+narration+%E2%86%92+captions+%E2%86%92+video;Interactive+AI+labs+%2B+3D+visual+systems;Shipping+tested+full-stack+workflows"
+    alt="Animated introduction"
+  />
+</a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=7EE787)](https://github.com/kh-bikash/portfolio)
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kh-bikash)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-kh-5544ba298/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khbikash17@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=kh-bikash&label=PROFILE+VIEWS&color=238636&style=for-the-badge)](https://github.com/kh-bikash)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/kh-bikash/portfolio)
 
 <br/>
 
-I build AI products that people can **run, inspect, and interact with**—from narrated repository explainers to 3D learning labs and persistent full-stack workspaces.
+![Profile views](https://komarev.com/ghpvc/?username=kh-bikash&label=PROFILE+VIEWS&color=238636&style=flat-square)
+![Followers](https://img.shields.io/github/followers/kh-bikash?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=161B22)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkh-bikash&query=%24.public_repos&label=PUBLIC%20REPOS&color=A371F7&labelColor=161B22)
 
 </div>
 
 ---
 
-## `> open_project_console`
+## `> whoami`
+
+```typescript
+const bikash = {
+  role: "AI Engineer + Full-Stack Builder",
+  location: "Manipur, India 🇮🇳",
+
+  builds: [
+    "AI product pipelines",
+    "interactive learning systems",
+    "3D visual interfaces",
+    "persistent full-stack applications",
+  ],
+
+  stack: ["Python", "TypeScript", "React", "Next.js", "FastAPI", "Three.js"],
+  principle: "If it is featured here, you can inspect the real code.",
+};
+```
+
+> I like projects that do something visible: generate, explain, simulate, render, measure, or automate.
+
+---
+
+## `> select_experience` — click to interact
 
 <details open>
-<summary><b>🎙️ Turn a GitHub README into a narrated explainer</b></summary>
+<summary><b>🎙️ Convert a GitHub README into a narrated video</b></summary>
 <br/>
 
-### [README Radio](https://github.com/kh-bikash/ReadmeRadio)
+### 📻 [README Radio](https://github.com/kh-bikash/ReadmeRadio)
 
-A working monorepo that fetches a public README, generates a spoken script and Mermaid architecture, synthesizes narration, creates timed captions, and renders a video with Remotion.
+A working monorepo that turns a public repository README into a narrated, captioned explainer video.
 
-`README.md` → `script + diagram` → `voiceover` → `captions` → `explainer.mp4`
+```text
+GitHub README
+      ↓
+LLM script + Mermaid architecture
+      ↓
+KittenTTS voiceover
+      ↓
+faster-whisper captions
+      ↓
+Remotion explainer.mp4
+```
 
-[![Last commit](https://img.shields.io/github/last-commit/kh-bikash/ReadmeRadio?style=flat-square&color=7ee787&labelColor=161b22)](https://github.com/kh-bikash/ReadmeRadio/commits/main)
-[![Top language](https://img.shields.io/github/languages/top/kh-bikash/ReadmeRadio?style=flat-square&color=58a6ff&labelColor=161b22)](https://github.com/kh-bikash/ReadmeRadio)
-[![Tests](https://img.shields.io/badge/tests-Node.js%20test%20suite-238636?style=flat-square&labelColor=161b22)](https://github.com/kh-bikash/ReadmeRadio/tree/main/packages/core/test)
+![Node.js](https://img.shields.io/badge/Node.js-22+-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Remotion](https://img.shields.io/badge/Remotion-Video-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Tests](https://img.shields.io/badge/tests-Node.js%20test%20suite-238636?style=flat-square)
 
-[**View source →**](https://github.com/kh-bikash/ReadmeRadio) · [**Open in Codespaces →**](https://codespaces.new/kh-bikash/ReadmeRadio?quickstart=1)
+[![SOURCE](https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kh-bikash/ReadmeRadio)
+[![CODESPACES](https://img.shields.io/badge/OPEN_IN_CODESPACES-181717?style=for-the-badge&logo=githubcodespaces&logoColor=white)](https://codespaces.new/kh-bikash/ReadmeRadio?quickstart=1)
 
 </details>
 
 <details>
-<summary><b>🧠 Operate AI concepts inside an interactive visual lab</b></summary>
+<summary><b>🧠 Operate AI concepts inside a visual learning OS</b></summary>
 <br/>
 
-### [AIVerse](https://github.com/kh-bikash/Aiverse)
+### 🌌 [AIVerse](https://github.com/kh-bikash/Aiverse)
 
-An interactive AI learning OS built with React, Three.js, D3, Monaco, XYFlow, and Hugging Face Transformers. It turns neural networks, attention, computer vision, and agent concepts into visual labs instead of static lessons.
+Interactive AI labs built with React, Three.js, D3, Monaco, XYFlow, and Hugging Face Transformers.
 
-[![Last commit](https://img.shields.io/github/last-commit/kh-bikash/Aiverse?style=flat-square&color=7ee787&labelColor=161b22)](https://github.com/kh-bikash/Aiverse/commits/main)
-[![Top language](https://img.shields.io/github/languages/top/kh-bikash/Aiverse?style=flat-square&color=58a6ff&labelColor=161b22)](https://github.com/kh-bikash/Aiverse)
-[![3D](https://img.shields.io/badge/3D-React%20Three%20Fiber-8250df?style=flat-square&labelColor=161b22)](https://github.com/kh-bikash/Aiverse)
+- Explore neural networks through live visualizations
+- Navigate transformer and attention concepts in 3D
+- Experiment with computer vision and agent workflows
+- Use an OS-style workspace instead of passive lessons
 
-[**View source →**](https://github.com/kh-bikash/Aiverse) · [**Open in Codespaces →**](https://codespaces.new/kh-bikash/Aiverse?quickstart=1)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-3D-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![D3](https://img.shields.io/badge/D3-Visualization-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
+![Transformers](https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square)
+
+[![SOURCE](https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kh-bikash/Aiverse)
+[![CODESPACES](https://img.shields.io/badge/OPEN_IN_CODESPACES-181717?style=for-the-badge&logo=githubcodespaces&logoColor=white)](https://codespaces.new/kh-bikash/Aiverse?quickstart=1)
 
 </details>
 
 <details>
-<summary><b>🚀 Run a persistent launch-operations workspace</b></summary>
+<summary><b>🚀 Manage a product launch from plan to readiness</b></summary>
 <br/>
 
-### [LaunchPad](https://github.com/kh-bikash/launchpad)
+### 🛰️ [LaunchPad](https://github.com/kh-bikash/launchpad)
 
-A real launch workspace with owners, due dates, generated checklists, saved task state, and readiness calculated from Cloudflare D1 data. The repository includes an actual product walkthrough and a server-render verification test.
+A persistent launch-operations workspace with real ownership, due dates, generated checklists, completion state, and readiness calculated from saved Cloudflare D1 data.
 
-[![Last commit](https://img.shields.io/github/last-commit/kh-bikash/launchpad?style=flat-square&color=7ee787&labelColor=161b22)](https://github.com/kh-bikash/launchpad/commits/main)
-[![Top language](https://img.shields.io/github/languages/top/kh-bikash/launchpad?style=flat-square&color=58a6ff&labelColor=161b22)](https://github.com/kh-bikash/launchpad)
-[![Persistence](https://img.shields.io/badge/persistence-Cloudflare%20D1-f6821f?style=flat-square&labelColor=161b22)](https://github.com/kh-bikash/launchpad)
+```mermaid
+flowchart LR
+    A["Create launch"] --> B["Generate checklist"]
+    B --> C["Assign owners"]
+    C --> D["Complete tasks"]
+    D --> E["Readiness updates"]
+```
 
-[**Watch the real walkthrough →**](https://github.com/kh-bikash/launchpad#watch-the-real-product-walkthrough) · [**Open in Codespaces →**](https://codespaces.new/kh-bikash/launchpad?quickstart=1)
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-ORM-C5F74F?style=flat-square)
+![Tested](https://img.shields.io/badge/SSR-render%20test-238636?style=flat-square)
+
+[![WALKTHROUGH](https://img.shields.io/badge/WATCH_REAL_WALKTHROUGH-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kh-bikash/launchpad#watch-the-real-product-walkthrough)
+[![CODESPACES](https://img.shields.io/badge/OPEN_IN_CODESPACES-181717?style=for-the-badge&logo=githubcodespaces&logoColor=white)](https://codespaces.new/kh-bikash/launchpad?quickstart=1)
 
 </details>
 
@@ -73,79 +140,107 @@ A real launch workspace with owners, due dates, generated checklists, saved task
 <summary><b>🎓 Explore a deployed multi-role university ERP</b></summary>
 <br/>
 
-### [Nova University ERP](https://github.com/kh-bikash/nova-university-erp)
+### 🏛️ [Nova University ERP](https://github.com/kh-bikash/nova-university-erp)
 
-A deployed Next.js application covering student, faculty, and administration workflows with PostgreSQL, Redis-backed jobs, JWT authentication, dashboards, attendance, grading, fees, hostel, transport, and library modules.
+A deployed Next.js university workspace with student, faculty, and administration flows.
 
-[![Last commit](https://img.shields.io/github/last-commit/kh-bikash/nova-university-erp?style=flat-square&color=7ee787&labelColor=161b22)](https://github.com/kh-bikash/nova-university-erp/commits/main)
-[![Top language](https://img.shields.io/github/languages/top/kh-bikash/nova-university-erp?style=flat-square&color=58a6ff&labelColor=161b22)](https://github.com/kh-bikash/nova-university-erp)
-[![Deployment](https://img.shields.io/badge/deployment-Vercel-ffffff?style=flat-square&logo=vercel&logoColor=000000&labelColor=161b22)](https://nova-university-erp.vercel.app/)
+- Attendance, grading, fees, hostel, transport, and library modules
+- PostgreSQL persistence and Redis-backed background work
+- JWT authentication and role-aware dashboards
+- Public Vercel deployment
 
-[**Launch live app →**](https://nova-university-erp.vercel.app/) · [**View source →**](https://github.com/kh-bikash/nova-university-erp)
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-FFFFFF?style=flat-square&logo=vercel&logoColor=000000)
+
+[![LIVE APP](https://img.shields.io/badge/LAUNCH_LIVE_APP-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://nova-university-erp.vercel.app/)
+[![SOURCE](https://img.shields.io/badge/VIEW_SOURCE-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kh-bikash/nova-university-erp)
 
 </details>
 
 ---
 
-## `> featured_builds`
+## `> repository_signal --live`
 
-<div align="center">
+These update automatically from the real repositories:
 
-<a href="https://github.com/kh-bikash/ReadmeRadio">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=ReadmeRadio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff" alt="README Radio repository card" />
-</a>
-<a href="https://github.com/kh-bikash/Aiverse">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=Aiverse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff" alt="AIVerse repository card" />
-</a>
-
-<a href="https://github.com/kh-bikash/launchpad">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=launchpad&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff" alt="LaunchPad repository card" />
-</a>
-<a href="https://github.com/kh-bikash/nova-university-erp">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=nova-university-erp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff" alt="Nova University ERP repository card" />
-</a>
-
-</div>
-
-### More things you can run
-
-| Project | What is real and working | Jump in |
+| Project | Activity | Primary language |
 |---|---|---|
-| [MedVision](https://github.com/kh-bikash/medvision) | FastAPI image pipeline, generated 3D meshes, Three.js viewer, and webcam gesture controls | [Source](https://github.com/kh-bikash/medvision) |
-| [Cosmic Comic Studio](https://github.com/kh-bikash/comic-studio) | Concurrent AI panel generation, four art styles, browser persistence, PNG/print/PDF output | [Source](https://github.com/kh-bikash/comic-studio) |
-| [AlgoGenesis 3D](https://github.com/kh-bikash/algogenesis-3d) | 3D algorithm visualization, playback controls, code editor, and AI explanations | [Source](https://github.com/kh-bikash/algogenesis-3d) |
-| [Sign Language Detector](https://github.com/kh-bikash/sign_lang_detector) | Webcam capture and real-time CNN gesture inference with TensorFlow/OpenCV | [Source](https://github.com/kh-bikash/sign_lang_detector) |
+| [README Radio](https://github.com/kh-bikash/ReadmeRadio) | ![Last commit](https://img.shields.io/github/last-commit/kh-bikash/ReadmeRadio?style=flat-square&color=7EE787&labelColor=161B22) | ![Language](https://img.shields.io/github/languages/top/kh-bikash/ReadmeRadio?style=flat-square&color=58A6FF&labelColor=161B22) |
+| [AIVerse](https://github.com/kh-bikash/Aiverse) | ![Last commit](https://img.shields.io/github/last-commit/kh-bikash/Aiverse?style=flat-square&color=7EE787&labelColor=161B22) | ![Language](https://img.shields.io/github/languages/top/kh-bikash/Aiverse?style=flat-square&color=58A6FF&labelColor=161B22) |
+| [LaunchPad](https://github.com/kh-bikash/launchpad) | ![Last commit](https://img.shields.io/github/last-commit/kh-bikash/launchpad?style=flat-square&color=7EE787&labelColor=161B22) | ![Language](https://img.shields.io/github/languages/top/kh-bikash/launchpad?style=flat-square&color=58A6FF&labelColor=161B22) |
+| [Nova ERP](https://github.com/kh-bikash/nova-university-erp) | ![Last commit](https://img.shields.io/github/last-commit/kh-bikash/nova-university-erp?style=flat-square&color=7EE787&labelColor=161B22) | ![Language](https://img.shields.io/github/languages/top/kh-bikash/nova-university-erp?style=flat-square&color=58A6FF&labelColor=161B22) |
+
+<details>
+<summary><b>🧪 Open the experiment vault</b></summary>
+<br/>
+
+| Project | What it does |
+|---|---|
+| [MedVision](https://github.com/kh-bikash/medvision) | FastAPI computer-vision pipeline, generated 3D meshes, Three.js viewer, and webcam controls |
+| [Cosmic Comic Studio](https://github.com/kh-bikash/comic-studio) | Concurrent AI comic-panel generation, multiple art styles, browser persistence, and PDF export |
+| [AlgoGenesis 3D](https://github.com/kh-bikash/algogenesis-3d) | Interactive 3D algorithm playback with a code editor and AI explanations |
+| [Sign Language Detector](https://github.com/kh-bikash/sign_lang_detector) | Webcam capture and real-time CNN gesture inference using TensorFlow and OpenCV |
+
+</details>
 
 ---
 
-## `> toolbelt`
+## `> stack --compact`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,fastapi,nodejs,threejs,pytorch,tensorflow,postgres,redis,docker,aws,gcp,githubactions&perline=8" alt="Python, TypeScript, React, Next.js, FastAPI, Node.js, Three.js, PyTorch, TensorFlow, PostgreSQL, Redis, Docker, AWS, GCP, and GitHub Actions" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
-```text
-AI / ML       model tooling · computer vision · LLM workflows · evaluation
-Frontend      React · Next.js · TypeScript · Three.js · data visualization
-Backend       FastAPI · Node.js · PostgreSQL · Redis · background jobs
-Shipping      Docker · GitHub Actions · Vercel · Cloudflare · AWS
-```
-
 ---
 
-## `> live_github_signal`
+## `> github_telemetry`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kh-bikash&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github" alt="Bikash's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-bikash&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9&langs_count=8" alt="Bikash's most used languages" />
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=kh-bikash&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+  alt="Bikash's GitHub statistics"
+/>
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-bikash&layout=compact&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=C9D1D9&langs_count=8"
+  alt="Bikash's most-used languages"
+/>
 
+<br/>
+
+<!-- This works with the snake workflow already present in kh-bikash/kh-bikash -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="GitHub contribution grid animated as a snake" src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="Animated GitHub contribution snake"
+    src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake-dark.svg"
+  />
 </picture>
 
 </div>
@@ -154,13 +249,39 @@ Shipping      Docker · GitHub Actions · Vercel · Cloudflare · AWS
 
 ## `> connect --interactive`
 
-Have a product idea, an AI workflow that needs evaluation, or a visual system that should exist?
+Pick an action:
 
-[![Propose a build](https://img.shields.io/badge/PROPOSE_A_BUILD-Open_a_GitHub_issue-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kh-bikash/kh-bikash/issues/new?title=Build%20idea%3A%20&body=%23%23%20The%20idea%0A%0A%23%23%20Who%20it%20helps%0A%0A%23%23%20What%20a%20useful%20first%20version%20does%0A)
-[![Start a conversation](https://img.shields.io/badge/START_A_CONVERSATION-Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khbikash17@gmail.com?subject=Let%27s%20build%20something)
+<details>
+<summary><b>💡 I have a product idea</b></summary>
+<br/>
+
+[![PROPOSE A BUILD](https://img.shields.io/badge/PROPOSE_A_BUILD-Open_a_prefilled_issue-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kh-bikash/kh-bikash/issues/new?title=Build%20idea%3A%20&body=%23%23%20The%20idea%0A%0A%23%23%20Who%20it%20helps%0A%0A%23%23%20What%20a%20useful%20first%20version%20does%0A)
+
+</details>
+
+<details>
+<summary><b>🤝 I want to collaborate</b></summary>
+<br/>
+
+[![EMAIL](https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khbikash17@gmail.com?subject=Let%27s%20build%20something)
+[![LINKEDIN](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-kh-5544ba298/)
+
+</details>
 
 <div align="center">
 
-<sub>Built in Manipur, India 🇮🇳 · shipped to the world through open source.</sub>
+<br/>
+
+```text
+BUILD IN PUBLIC  //  TEST THE REAL FLOW  //  SHIP WHAT WORKS
+```
+
+<sub>Built in Manipur, India 🇮🇳 · open to AI engineering, product collaboration, and open source.</sub>
 
 </div>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,45:0E4429,100:070B12&height=110&section=footer"
+  width="100%"
+  alt=""
+/>
