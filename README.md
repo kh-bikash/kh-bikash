@@ -1,137 +1,124 @@
 <div align="center">
+<br/>
 
-<img src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/main/assets/hero.svg" width="100%" alt="Khundrakpam Bikash Meitei — AI Engineer, Full-Stack Builder, Visual Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=34&duration=4200&pause=1200&color=8B949E&center=true&vCenter=true&width=760&height=64&lines=Khundrakpam+Bikash+Meitei" alt="Khundrakpam Bikash Meitei"/>
+
+<samp><sub>A I &nbsp; E N G I N E E R</sub></samp> &nbsp;·&nbsp; <samp><sub>F U L L - S T A C K</sub></samp> &nbsp;·&nbsp; <samp><sub>V I S U A L &nbsp; S Y S T E M S</sub></samp>
+
+<br/>
+
+<samp><sub>Manipur, India</sub></samp>
+
+<br/>
+
+<samp><sub>
+<a href="https://github.com/kh-bikash/portfolio">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/bikash-kh-5544ba298/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:khbikash17@gmail.com">Email</a>
+</sub></samp>
 
 <br/><br/>
 
-<a href="https://github.com/kh-bikash/portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-0B1120?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0B1120" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/bikash-kh-5544ba298/"><img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0B1120" alt="LinkedIn"/></a>
-<a href="mailto:khbikash17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=FB7185&labelColor=0B1120" alt="Email"/></a>
-<a href="https://nova-university-erp.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-0B1120?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0B1120" alt="Live demo"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3600&pause=900&color=C8A96A&center=true&vCenter=true&width=720&height=34&lines=I+build+things+that+visibly+do+something.;Generate.+Explain.+Simulate.+Render.+Automate.;Everything+below+is+running+code+you+can+clone." alt=""/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/main/assets/mascot.svg" width="100%" alt="Animated mascot working at a terminal"/>
-
+<br/>
 </div>
 
-<br/>
-
-> **I build things that visibly do something** — generate, explain, simulate, render, measure, automate.
-> Every project below is running code you can clone, open in Codespaces, or use in a browser right now. No screenshots of things that don't exist.
+---
 
 <br/>
 
-<div align="center">
+### &nbsp;Selected work
 
-### ▚ &nbsp;S E L E C T E D &nbsp; W O R K
+<br/>
 
-<table border="0" cellspacing="14" cellpadding="0">
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/kh-bikash/ReadmeRadio">
-    <img src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/main/assets/card-readmeradio.svg" width="100%" alt="README Radio — turns any GitHub README into a narrated, captioned video"/>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://github.com/kh-bikash/Aiverse">
-    <img src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/main/assets/card-aiverse.svg" width="100%" alt="AIVerse — interactive AI labs in a 3D OS-style workspace"/>
-  </a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-  <a href="https://github.com/kh-bikash/launchpad">
-    <img src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/main/assets/card-launchpad.svg" width="100%" alt="LaunchPad — persistent launch operations workspace"/>
-  </a>
-</td>
-<td width="50%" align="center">
-  <a href="https://nova-university-erp.vercel.app/">
-    <img src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/main/assets/card-nova.svg" width="100%" alt="Nova University ERP — deployed multi-role university workspace"/>
-  </a>
-</td>
-</tr>
-</table>
+**README Radio** &nbsp;<samp><sub>— AI video pipeline</sub></samp>
 
+<samp>Point it at any public repository. It writes the script, narrates it, captions it, and renders an explainer `.mp4`.</samp>
+<samp><sub>Node · Python · Remotion · faster-whisper &nbsp;&nbsp;&nbsp; [Repository ↗](https://github.com/kh-bikash/ReadmeRadio) &nbsp; [Run it ↗](https://codespaces.new/kh-bikash/ReadmeRadio?quickstart=1)</sub></samp>
+
+<br/>
+
+**AIVerse** &nbsp;<samp><sub>— interactive AI labs</sub></samp>
+
+<samp>An OS-style workspace where you operate neural networks, attention and vision in 3D rather than read about them.</samp>
+<samp><sub>React · Three.js · D3 · Transformers &nbsp;&nbsp;&nbsp; [Repository ↗](https://github.com/kh-bikash/Aiverse) &nbsp; [Run it ↗](https://codespaces.new/kh-bikash/Aiverse?quickstart=1)</sub></samp>
+
+<br/>
+
+**LaunchPad** &nbsp;<samp><sub>— launch operations</sub></samp>
+
+<samp>Real owners, real due dates, real persistence. Readiness is computed from saved data, never faked.</samp>
+<samp><sub>Next.js · Cloudflare D1 · Drizzle &nbsp;&nbsp;&nbsp; [Repository ↗](https://github.com/kh-bikash/launchpad) &nbsp; [Walkthrough ↗](https://github.com/kh-bikash/launchpad#watch-the-real-product-walkthrough)</sub></samp>
+
+<br/>
+
+**Nova University ERP** &nbsp;<samp><sub>— deployed, live</sub></samp>
+
+<samp>Student, faculty and admin flows in one workspace: attendance, grading, fees, hostel, transport, library.</samp>
+<samp><sub>Next.js · PostgreSQL · Redis · JWT &nbsp;&nbsp;&nbsp; [Repository ↗](https://github.com/kh-bikash/nova-university-erp) &nbsp; [Live app ↗](https://nova-university-erp.vercel.app/)</sub></samp>
+
+<br/>
+
+---
+
+<br/>
+
+### &nbsp;Elsewhere
+
+<br/>
+
+<samp>
 <sub>
-<a href="https://codespaces.new/kh-bikash/ReadmeRadio?quickstart=1">↗ run README Radio</a> &nbsp;·&nbsp;
-<a href="https://codespaces.new/kh-bikash/Aiverse?quickstart=1">↗ run AIVerse</a> &nbsp;·&nbsp;
-<a href="https://github.com/kh-bikash/launchpad#watch-the-real-product-walkthrough">↗ LaunchPad walkthrough</a> &nbsp;·&nbsp;
-<a href="https://github.com/kh-bikash/nova-university-erp">↗ Nova source</a>
+
+**[MedVision ↗](https://github.com/kh-bikash/medvision)** &nbsp; Vision pipeline to generated 3D meshes, viewed in the browser.
+
+**[Cosmic Comic Studio ↗](https://github.com/kh-bikash/comic-studio)** &nbsp; Concurrent AI panel generation with styles and PDF export.
+
+**[AlgoGenesis 3D ↗](https://github.com/kh-bikash/algogenesis-3d)** &nbsp; Step-through 3D algorithm playback with an embedded editor.
+
+**[Sign Language Detector ↗](https://github.com/kh-bikash/sign_lang_detector)** &nbsp; Real-time CNN gesture inference from a webcam.
+
 </sub>
+</samp>
 
+<br/>
+
+---
+
+<br/>
+
+### &nbsp;Stack
+
+<br/>
+
+<samp><sub>
+Python &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Three.js
 <br/><br/>
+PyTorch &nbsp;·&nbsp; TensorFlow &nbsp;·&nbsp; OpenCV &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Cloudflare &nbsp;·&nbsp; GitHub Actions
+</sub></samp>
 
-<img src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/main/assets/stack.svg" width="100%" alt="Tech stack"/>
+<br/>
 
-</div>
+---
 
 <br/>
 
 <div align="center">
 
-### ▚ &nbsp;L I V E &nbsp; S I G N A L
-
-<sub>Pulled straight from the repos — nothing here is hand-written.</sub>
-
-<br/><br/>
-
-<a href="https://github.com/kh-bikash/ReadmeRadio"><img src="https://img.shields.io/github/last-commit/kh-bikash/ReadmeRadio?style=flat-square&label=readme%20radio&color=FBBF24&labelColor=0B1120" alt=""/></a>
-<a href="https://github.com/kh-bikash/Aiverse"><img src="https://img.shields.io/github/last-commit/kh-bikash/Aiverse?style=flat-square&label=aiverse&color=A78BFA&labelColor=0B1120" alt=""/></a>
-<a href="https://github.com/kh-bikash/launchpad"><img src="https://img.shields.io/github/last-commit/kh-bikash/launchpad?style=flat-square&label=launchpad&color=22D3EE&labelColor=0B1120" alt=""/></a>
-<a href="https://github.com/kh-bikash/nova-university-erp"><img src="https://img.shields.io/github/last-commit/kh-bikash/nova-university-erp?style=flat-square&label=nova%20erp&color=FB7185&labelColor=0B1120" alt=""/></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=kh-bikash&label=VISITORS&color=22D3EE&style=flat-square" alt=""/>
-<img src="https://img.shields.io/github/followers/kh-bikash?style=flat-square&label=FOLLOWERS&color=A78BFA&labelColor=0B1120" alt=""/>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkh-bikash&query=%24.public_repos&style=flat-square&label=REPOS&color=FBBF24&labelColor=0B1120" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=kh-bikash&show_icons=true&hide_border=true&hide_title=true&hide_rank=true&bg_color=00000000&text_color=8B949E&icon_color=C8A96A&hide=issues" height="120" alt=""/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-bikash&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E&langs_count=6" height="120" alt=""/>
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kh-bikash&show_icons=true&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=94A3B8&icon_color=A78BFA&ring_color=FBBF24&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-bikash&layout=compact&hide_border=true&bg_color=0B1120&title_color=22D3EE&text_color=94A3B8&langs_count=8" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=kh-bikash&hide_border=true&background=0B1120&stroke=1E293B&ring=22D3EE&fire=FB7185&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&sideNums=A78BFA&currStreakNum=F8FAFC" alt="Contribution streak"/>
+<samp><sub>
+<a href="mailto:khbikash17@gmail.com">Available for AI engineering and product collaboration</a>
+</sub></samp>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake.svg"/>
-  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
+<samp><sub>Built in Manipur, India</sub></samp>
 
 <br/>
-
-### ▚ &nbsp;T H E &nbsp; V A U L T
-
-Smaller experiments, still real:
-
-| | Project | What it actually does |
-|:--:|---|---|
-| 🩻 | **[MedVision](https://github.com/kh-bikash/medvision)** | FastAPI vision pipeline → generated 3D meshes → Three.js viewer with webcam controls |
-| 🎨 | **[Cosmic Comic Studio](https://github.com/kh-bikash/comic-studio)** | Concurrent AI panel generation, multiple art styles, browser persistence, PDF export |
-| 🧊 | **[AlgoGenesis 3D](https://github.com/kh-bikash/algogenesis-3d)** | Step-through 3D algorithm playback with an embedded editor and AI explanations |
-| 🤟 | **[Sign Language Detector](https://github.com/kh-bikash/sign_lang_detector)** | Real-time CNN gesture inference from webcam, TensorFlow + OpenCV |
-
-<br/>
-
-### ▚ &nbsp;S T A R T &nbsp; S O M E T H I N G
-
-| I want to… | Go |
-|---|---|
-| pitch a build idea | [**open a prefilled issue →**](https://github.com/kh-bikash/kh-bikash/issues/new?title=Build%20idea%3A%20&body=%23%23%20The%20idea%0A%0A%23%23%20Who%20it%20helps%0A%0A%23%23%20What%20a%20useful%20first%20version%20does%0A) |
-| hire or collaborate | [**khbikash17@gmail.com →**](mailto:khbikash17@gmail.com?subject=Let%27s%20build%20something) |
-| just talk shop | [**LinkedIn →**](https://www.linkedin.com/in/bikash-kh-5544ba298/) |
-| report a bug in my code | [**file it →**](https://github.com/kh-bikash/kh-bikash/issues/new?title=Bug%3A%20&body=%23%23%20Repository%0A%0A%23%23%20What%20happened%0A%0A%23%23%20Expected%0A%0A%23%23%20Steps%20to%20reproduce%0A1.%20%0A2.%20%0A) |
-
-<br/>
-
-<div align="center">
-<sub>Built in Manipur, India 🇮🇳 &nbsp;·&nbsp; every asset on this page is hand-authored SVG in <code>/assets</code></sub>
 </div>
