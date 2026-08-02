@@ -1,13 +1,18 @@
 <div align="center">
 
-<!-- Animated hero: no repository asset required -->
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:070B12,35:0D1117,70:0E4429,100:238636&height=230&section=header&text=KHUNDRAKPAM%20BIKASH%20MEITEI&fontSize=37&fontColor=F0F6FC&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Visual%20Systems&descAlignY=60&descSize=16&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:070B12,35:0D1117,70:0E4429,100:238636&height=210&section=header&text=KHUNDRAKPAM%20BIKASH%20MEITEI&fontSize=36&fontColor=F0F6FC&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Visual%20Systems&descAlignY=58&descSize=16&animation=fadeIn"
   width="100%"
   alt="Khundrakpam Bikash Meitei — AI Engineer, Full-Stack Builder, Visual Systems"
 />
 
-<!-- Animated typing line -->
+<!-- ⬇️ Custom animated mascot: bobs, blinks, waves, and types live code -->
+<img
+  src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/main/assets/mascot.svg"
+  width="100%"
+  alt="Animated robot mascot typing in a terminal"
+/>
+
 <a href="https://github.com/kh-bikash">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=7EE787&center=true&vCenter=true&repeat=true&width=850&height=55&lines=Building+AI+products+you+can+actually+run;README+%E2%86%92+narration+%E2%86%92+captions+%E2%86%92+video;Interactive+AI+labs+%2B+3D+visual+systems;Shipping+tested+full-stack+workflows"
@@ -27,6 +32,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=kh-bikash&label=PROFILE+VIEWS&color=238636&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/kh-bikash?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=161B22)
 ![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkh-bikash&query=%24.public_repos&label=PUBLIC%20REPOS&color=A371F7&labelColor=161B22)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Frepositories%3Fq%3Duser%253Akh-bikash&query=%24.total_count&label=REPOS%20INDEXED&color=F0883E&labelColor=161B22)
 
 </div>
 
@@ -51,30 +57,26 @@ const bikash = {
 };
 ```
 
-> I like projects that do something visible: generate, explain, simulate, render, measure, or automate.
+> I like projects that do something visible: **generate, explain, simulate, render, measure, or automate.**
 
 ---
 
-## `> select_experience` — click to interact
+## `> select_experience` — click a card to open it
 
 <details open>
-<summary><b>🎙️ Convert a GitHub README into a narrated video</b></summary>
+<summary><b>🎙️ &nbsp;Turn a GitHub README into a narrated video</b></summary>
 <br/>
 
 ### 📻 [README Radio](https://github.com/kh-bikash/ReadmeRadio)
 
 A working monorepo that turns a public repository README into a narrated, captioned explainer video.
 
-```text
-GitHub README
-      ↓
-LLM script + Mermaid architecture
-      ↓
-KittenTTS voiceover
-      ↓
-faster-whisper captions
-      ↓
-Remotion explainer.mp4
+```mermaid
+flowchart LR
+    A["GitHub README"] --> B["LLM script + Mermaid"]
+    B --> C["KittenTTS voiceover"]
+    C --> D["faster-whisper captions"]
+    D --> E["Remotion explainer.mp4"]
 ```
 
 ![Node.js](https://img.shields.io/badge/Node.js-22+-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -88,17 +90,19 @@ Remotion explainer.mp4
 </details>
 
 <details>
-<summary><b>🧠 Operate AI concepts inside a visual learning OS</b></summary>
+<summary><b>🧠 &nbsp;Operate AI concepts inside a visual learning OS</b></summary>
 <br/>
 
 ### 🌌 [AIVerse](https://github.com/kh-bikash/Aiverse)
 
 Interactive AI labs built with React, Three.js, D3, Monaco, XYFlow, and Hugging Face Transformers.
 
-- Explore neural networks through live visualizations
-- Navigate transformer and attention concepts in 3D
-- Experiment with computer vision and agent workflows
-- Use an OS-style workspace instead of passive lessons
+|  | Lab |
+|---|---|
+| 🕸️ | Explore neural networks through live visualizations |
+| 🧭 | Navigate transformer and attention concepts in 3D |
+| 👁️ | Experiment with computer vision and agent workflows |
+| 🖥️ | Use an OS-style workspace instead of passive lessons |
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-3D-000000?style=flat-square&logo=threedotjs&logoColor=white)
@@ -111,7 +115,7 @@ Interactive AI labs built with React, Three.js, D3, Monaco, XYFlow, and Hugging 
 </details>
 
 <details>
-<summary><b>🚀 Manage a product launch from plan to readiness</b></summary>
+<summary><b>🚀 &nbsp;Run a product launch from plan to readiness</b></summary>
 <br/>
 
 ### 🛰️ [LaunchPad](https://github.com/kh-bikash/launchpad)
@@ -137,7 +141,7 @@ flowchart LR
 </details>
 
 <details>
-<summary><b>🎓 Explore a deployed multi-role university ERP</b></summary>
+<summary><b>🎓 &nbsp;Explore a deployed multi-role university ERP</b></summary>
 <br/>
 
 ### 🏛️ [Nova University ERP](https://github.com/kh-bikash/nova-university-erp)
@@ -165,15 +169,15 @@ A deployed Next.js university workspace with student, faculty, and administratio
 
 These update automatically from the real repositories:
 
-| Project | Activity | Primary language |
-|---|---|---|
-| [README Radio](https://github.com/kh-bikash/ReadmeRadio) | ![Last commit](https://img.shields.io/github/last-commit/kh-bikash/ReadmeRadio?style=flat-square&color=7EE787&labelColor=161B22) | ![Language](https://img.shields.io/github/languages/top/kh-bikash/ReadmeRadio?style=flat-square&color=58A6FF&labelColor=161B22) |
-| [AIVerse](https://github.com/kh-bikash/Aiverse) | ![Last commit](https://img.shields.io/github/last-commit/kh-bikash/Aiverse?style=flat-square&color=7EE787&labelColor=161B22) | ![Language](https://img.shields.io/github/languages/top/kh-bikash/Aiverse?style=flat-square&color=58A6FF&labelColor=161B22) |
-| [LaunchPad](https://github.com/kh-bikash/launchpad) | ![Last commit](https://img.shields.io/github/last-commit/kh-bikash/launchpad?style=flat-square&color=7EE787&labelColor=161B22) | ![Language](https://img.shields.io/github/languages/top/kh-bikash/launchpad?style=flat-square&color=58A6FF&labelColor=161B22) |
-| [Nova ERP](https://github.com/kh-bikash/nova-university-erp) | ![Last commit](https://img.shields.io/github/last-commit/kh-bikash/nova-university-erp?style=flat-square&color=7EE787&labelColor=161B22) | ![Language](https://img.shields.io/github/languages/top/kh-bikash/nova-university-erp?style=flat-square&color=58A6FF&labelColor=161B22) |
+| Project | Last commit | Language | Size | Issues |
+|---|---|---|---|---|
+| [README Radio](https://github.com/kh-bikash/ReadmeRadio) | ![](https://img.shields.io/github/last-commit/kh-bikash/ReadmeRadio?style=flat-square&color=7EE787&labelColor=161B22&label=) | ![](https://img.shields.io/github/languages/top/kh-bikash/ReadmeRadio?style=flat-square&color=58A6FF&labelColor=161B22&label=) | ![](https://img.shields.io/github/languages/code-size/kh-bikash/ReadmeRadio?style=flat-square&color=A371F7&labelColor=161B22&label=) | ![](https://img.shields.io/github/issues/kh-bikash/ReadmeRadio?style=flat-square&color=F0883E&labelColor=161B22&label=) |
+| [AIVerse](https://github.com/kh-bikash/Aiverse) | ![](https://img.shields.io/github/last-commit/kh-bikash/Aiverse?style=flat-square&color=7EE787&labelColor=161B22&label=) | ![](https://img.shields.io/github/languages/top/kh-bikash/Aiverse?style=flat-square&color=58A6FF&labelColor=161B22&label=) | ![](https://img.shields.io/github/languages/code-size/kh-bikash/Aiverse?style=flat-square&color=A371F7&labelColor=161B22&label=) | ![](https://img.shields.io/github/issues/kh-bikash/Aiverse?style=flat-square&color=F0883E&labelColor=161B22&label=) |
+| [LaunchPad](https://github.com/kh-bikash/launchpad) | ![](https://img.shields.io/github/last-commit/kh-bikash/launchpad?style=flat-square&color=7EE787&labelColor=161B22&label=) | ![](https://img.shields.io/github/languages/top/kh-bikash/launchpad?style=flat-square&color=58A6FF&labelColor=161B22&label=) | ![](https://img.shields.io/github/languages/code-size/kh-bikash/launchpad?style=flat-square&color=A371F7&labelColor=161B22&label=) | ![](https://img.shields.io/github/issues/kh-bikash/launchpad?style=flat-square&color=F0883E&labelColor=161B22&label=) |
+| [Nova ERP](https://github.com/kh-bikash/nova-university-erp) | ![](https://img.shields.io/github/last-commit/kh-bikash/nova-university-erp?style=flat-square&color=7EE787&labelColor=161B22&label=) | ![](https://img.shields.io/github/languages/top/kh-bikash/nova-university-erp?style=flat-square&color=58A6FF&labelColor=161B22&label=) | ![](https://img.shields.io/github/languages/code-size/kh-bikash/nova-university-erp?style=flat-square&color=A371F7&labelColor=161B22&label=) | ![](https://img.shields.io/github/issues/kh-bikash/nova-university-erp?style=flat-square&color=F0883E&labelColor=161B22&label=) |
 
 <details>
-<summary><b>🧪 Open the experiment vault</b></summary>
+<summary><b>🧪 &nbsp;Open the experiment vault</b></summary>
 <br/>
 
 | Project | What it does |
@@ -226,7 +230,21 @@ These update automatically from the real repositories:
 
 <br/>
 
-<!-- This works with the snake workflow already present in kh-bikash/kh-bikash -->
+<img
+  src="https://streak-stats.demolab.com?user=kh-bikash&hide_border=true&background=0D1117&stroke=30363D&ring=7EE787&fire=F0883E&currStreakLabel=7EE787&sideLabels=C9D1D9&dates=8B949E&sideNums=58A6FF&currStreakNum=F0F6FC"
+  alt="Contribution streak"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=kh-bikash&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"
+  alt="GitHub trophies"
+/>
+
+<br/>
+
+<!-- Powered by the snake workflow in .github/workflows/snake.yml -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -252,7 +270,7 @@ These update automatically from the real repositories:
 Pick an action:
 
 <details>
-<summary><b>💡 I have a product idea</b></summary>
+<summary><b>💡 &nbsp;I have a product idea</b></summary>
 <br/>
 
 [![PROPOSE A BUILD](https://img.shields.io/badge/PROPOSE_A_BUILD-Open_a_prefilled_issue-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kh-bikash/kh-bikash/issues/new?title=Build%20idea%3A%20&body=%23%23%20The%20idea%0A%0A%23%23%20Who%20it%20helps%0A%0A%23%23%20What%20a%20useful%20first%20version%20does%0A)
@@ -260,11 +278,19 @@ Pick an action:
 </details>
 
 <details>
-<summary><b>🤝 I want to collaborate</b></summary>
+<summary><b>🤝 &nbsp;I want to collaborate</b></summary>
 <br/>
 
 [![EMAIL](https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khbikash17@gmail.com?subject=Let%27s%20build%20something)
 [![LINKEDIN](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-kh-5544ba298/)
+
+</details>
+
+<details>
+<summary><b>🐛 &nbsp;I found a bug in one of your projects</b></summary>
+<br/>
+
+[![REPORT A BUG](https://img.shields.io/badge/REPORT_A_BUG-DA3633?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kh-bikash/kh-bikash/issues/new?title=Bug%3A%20&body=%23%23%20Repository%0A%0A%23%23%20What%20happened%0A%0A%23%23%20What%20you%20expected%0A%0A%23%23%20Steps%20to%20reproduce%0A1.%20%0A2.%20%0A)
 
 </details>
 
