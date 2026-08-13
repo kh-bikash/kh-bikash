@@ -72,7 +72,7 @@ mode: ship > screenshot
 </table>
 
 <p align="center">
-  <img src="./assets/pulse-divider.gif" width="100%" alt="Animated divider"/>
+  <img src="pulse-divider.gif" width="100%" alt="Animated divider"/>
 </p>
 
 # `◢ SELECTED WORK / 002`
@@ -81,7 +81,7 @@ mode: ship > screenshot
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/kh-bikash/ReadmeRadio">
-  <img src="./assets/project-01.png" width="100%" alt="README Radio"/>
+  <img src="project-01.png" width="100%" alt="README Radio"/>
 </a>
 <br/>
 <a href="https://github.com/kh-bikash/ReadmeRadio"><b>source ↗</b></a>
@@ -91,7 +91,7 @@ mode: ship > screenshot
 
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/kh-bikash/Aiverse">
-  <img src="./assets/project-02.png" width="100%" alt="AIVerse"/>
+  <img src="project-02.png" width="100%" alt="AIVerse"/>
 </a>
 <br/>
 <a href="https://github.com/kh-bikash/Aiverse"><b>source ↗</b></a>
@@ -103,7 +103,7 @@ mode: ship > screenshot
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/kh-bikash/launchpad">
-  <img src="./assets/project-03.png" width="100%" alt="LaunchPad"/>
+  <img src="project-03.png" width="100%" alt="LaunchPad"/>
 </a>
 <br/>
 <a href="https://github.com/kh-bikash/launchpad"><b>source ↗</b></a>
@@ -113,7 +113,7 @@ mode: ship > screenshot
 
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/kh-bikash/nova-university-erp">
-  <img src="./assets/project-04.png" width="100%" alt="Nova University ERP"/>
+  <img src="project-04.png" width="100%" alt="Nova University ERP"/>
 </a>
 <br/>
 <a href="https://github.com/kh-bikash/nova-university-erp"><b>source ↗</b></a>
@@ -126,7 +126,7 @@ mode: ship > screenshot
 <br/>
 
 <p align="center">
-  <img src="./assets/system-flow.gif" width="100%" alt="Animated AI system flow"/>
+  <img src="system-flow.gif" width="100%" alt="Animated AI system flow"/>
 </p>
 
 # `◢ HOW I THINK / 003`
@@ -160,7 +160,7 @@ A deployed useful system beats a beautiful architecture diagram.
 > **The model is only one component.** Context, tools, state, observability, evaluation and judgment are what turn it into a product.
 
 <p align="center">
-  <img src="./assets/pulse-divider.gif" width="100%" alt="Animated divider"/>
+  <img src="pulse-divider.gif" width="100%" alt="Animated divider"/>
 </p>
 
 # `◢ TOOLCHAIN / 004`
@@ -181,7 +181,7 @@ A deployed useful system beats a beautiful architecture diagram.
 </p>
 
 <p align="center">
-  <img src="./assets/runtime.gif" width="100%" alt="Animated runtime terminal"/>
+  <img src="runtime.gif" width="100%" alt="Animated runtime terminal"/>
 </p>
 
 # `◢ SIDE QUESTS / 005`
@@ -224,7 +224,7 @@ Real-time CNN gesture inference from webcam input.
 </table>
 
 <p align="center">
-  <img src="./assets/pulse-divider.gif" width="100%" alt="Animated divider"/>
+  <img src="pulse-divider.gif" width="100%" alt="Animated divider"/>
 </p>
 
 # `◢ MANIFESTO / 006`
