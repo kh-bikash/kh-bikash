@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:khbikash17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050712?style=for-the-badge&logo=gmail&logoColor=5EEBFF" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/khundrakpam-bikash"><img src="https://img.shields.io/badge/LINKEDIN-050712?style=for-the-badge&logo=linkedin&logoColor=8A6CFF" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/khundrakpam-bikash-meitei-5544ba298/"><img src="https://img.shields.io/badge/LINKEDIN-050712?style=for-the-badge&logo=linkedin&logoColor=8A6CFF" alt="LinkedIn"/></a>
   <a href="https://github.com/kh-bikash"><img src="https://img.shields.io/badge/GITHUB-050712?style=for-the-badge&logo=github&logoColor=FF4FD8" alt="GitHub"/></a>
 </p>
 
