@@ -1,207 +1,250 @@
 ````html
-<!-- =========================================================
-     KHUNDRAKPAM BIKASH MEITEI — GITHUB PROFILE
-     github.com/kh-bikash
-========================================================= -->
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║      KHUNDRAKPAM BIKASH MEITEI · GITHUB PROFILE             ║
+║                                                              ║
+║      Built with restraint. Shipped with intent.              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,19,20,24,30&text=KHUNDRAKPAM%20BIKASH%20MEITEI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Full-Stack%20Builder&descAlignY=58&descSize=17&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%40+the+intersection+of+models+%2B+systems;Building+agents+that+actually+do+things;Turning+ideas+into+deployed+AI+products;RAG+%E2%80%A2+Agents+%E2%80%A2+LLMs+%E2%80%A2+Backend+%E2%80%A2+3D;Ship+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Rebuild+%E2%86%92+Ship" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:171A21,70:302A20,100:C8A96A&height=230&section=header&text=KHUNDRAKPAM%20BIKASH%20MEITEI&fontColor=F5F2EA&fontSize=38&fontAlignY=37&desc=AI%20ENGINEER%20%E2%80%A2%20SYSTEMS%20BUILDER%20%E2%80%A2%20PRODUCT%20ENGINEER&descAlignY=58&descSize=14&animation=fadeIn"
+  width="100%"
+  alt="header"
+/>
 
 <br/>
 
-<a href="https://github.com/kh-bikash">
-<img src="https://komarev.com/ghpvc/?username=kh-bikash&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
-</a>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=850&color=C8A96A&center=true&vCenter=true&width=820&height=32&lines=building+AI+systems+that+survive+outside+localhost.;agents+%C2%B7+retrieval+%C2%B7+infrastructure+%C2%B7+interfaces;from+rough+idea+%E2%86%92+working+system+%E2%86%92+shipped+product"
+  alt="typing animation"
+/>
 
-<a href="https://github.com/kh-bikash?tab=followers">
-<img src="https://img.shields.io/github/followers/kh-bikash?style=for-the-badge&logo=github&label=FOLLOWERS"/>
-</a>
+<br/><br/>
 
 <a href="mailto:khbikash17@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Build-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-C8A96A?style=for-the-badge&logo=gmail&logoColor=111111" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bikash-kh-5544ba298/">
+  <img src="https://img.shields.io/badge/LINKEDIN-171A21?style=for-the-badge&logo=linkedin&logoColor=C8A96A" />
+</a>
+&nbsp;
+<a href="https://github.com/kh-bikash">
+  <img src="https://img.shields.io/badge/GITHUB-171A21?style=for-the-badge&logo=github&logoColor=C8A96A" />
 </a>
 
-<a href="https://www.linkedin.com/in/bikash-kh-5544ba298/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=kh-bikash&label=PROFILE%20VIEWS&color=C8A96A&style=flat-square"
+/>
 
 </div>
 
+<br/>
+
 ---
 
-## `> whoami`
+<br/>
 
-```js
+## `01 / identity`
+
+```typescript
 const bikash = {
-    name: "Khundrakpam Bikash Meitei",
-    role: "AI Engineer",
-    location: "India 🇮🇳",
+  role: "AI Engineer",
 
-    currentFocus: [
-        "Agentic AI",
-        "RAG Systems",
-        "LLM Engineering",
-        "AI Infrastructure",
-        "Full-Stack AI Products",
-        "3D + Interactive Systems"
-    ],
+  building: [
+    "agentic AI systems",
+    "RAG + retrieval pipelines",
+    "ML-backed products",
+    "backend infrastructure",
+    "interactive interfaces"
+  ],
 
-    philosophy: "Build things that visibly do something.",
+  principles: [
+    "build the real flow",
+    "inspect what fails",
+    "measure before claiming",
+    "ship something people can use"
+  ],
 
-    currently: {
-        building: "AI systems that survive outside localhost",
-        learning: "better agents, better evals, better systems",
-        shipping: true
-    }
+  status: "building."
 };
 ````
 
+<br/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=%5Bboot%5D+loading+builder+profile...;%5Bok%5D+python+runtime+detected;%5Bok%5D+agent+orchestrator+online;%5Bok%5D+vector+index+mounted;%5Bok%5D+docker+containers+healthy;%5Bready%5D+let's+build+something." />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1700&pause=450&color=8B949E&center=true&vCenter=true&width=720&height=25&lines=%5B01%5D+initializing+workspace...;%5B02%5D+loading+model+runtime...;%5B03%5D+mounting+retrieval+layer...;%5B04%5D+connecting+tools...;%5B05%5D+system+ready+%E2%9C%93"
+alt="boot animation"
+/>
 
 </div>
 
----
-
-# 🧠 What I Build
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Agents
-
-Systems that can reason, call tools, use context and complete multi-step work.
-
-`LangChain` `LangGraph` `LLMs` `RAG`
-
-</td>
-<td width="50%">
-
-### ⚙️ AI Infrastructure
-
-APIs, workers, queues, databases and deployment around models.
-
-`FastAPI` `PostgreSQL` `Redis` `Docker`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧬 ML Systems
-
-Training, evaluation, inference and experimentation pipelines.
-
-`PyTorch` `TensorFlow` `HuggingFace`
-
-</td>
-
-<td width="50%">
-
-### 🌐 AI Products
-
-I like AI more when users can actually interact with it.
-
-`React` `Next.js` `Three.js` `TypeScript`
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-# 🚀 Featured Systems
+<br/>
+
+## `02 / what I care about`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=6C63FF&center=true&vCenter=true&width=550&lines=%24+ls+-la+./things_i_ship;%24+cat+projects.json" />
+<table>
+<tr>
+
+<td width="25%" align="center">
+<h3>Agents</h3>
+<sub>
+reasoning<br/>
+tool calling<br/>
+orchestration
+</sub>
+</td>
+
+<td width="25%" align="center">
+<h3>Retrieval</h3>
+<sub>
+RAG<br/>
+embeddings<br/>
+evaluation
+</sub>
+</td>
+
+<td width="25%" align="center">
+<h3>Systems</h3>
+<sub>
+APIs<br/>
+workers<br/>
+observability
+</sub>
+</td>
+
+<td width="25%" align="center">
+<h3>Products</h3>
+<sub>
+interfaces<br/>
+real users<br/>
+real state
+</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+# `03 / selected work`
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=C8A96A&center=true&vCenter=true&width=600&height=30&lines=%24+ls+./selected-work;%24+open+things-that-actually-run"
+alt="selected work"
+/>
 
 </div>
 
 <br/>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">📻 README Radio</h3>
+### README Radio
 
-<div align="center">
+<sub>Repository → narrated technical explainer video</sub>
+
+<br/><br/>
+
+Give it a public GitHub repository and it turns the project into a narrated `.mp4` explainer.
+
+```text
+repo
+ │
+ ├─ read source
+ ├─ understand project
+ ├─ write narrative
+ ├─ generate narration
+ ├─ align captions
+ └─ render video
+```
+
+<sub>
+Node.js · Python · Remotion · faster-whisper
+</sub>
+
+<br/><br/>
 
 <a href="https://github.com/kh-bikash/ReadmeRadio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=ReadmeRadio&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=36BCF7"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-C8A96A?style=flat-square&logo=github&logoColor=111111"/>
 </a>
 
-</div>
+<a href="https://codespaces.new/kh-bikash/ReadmeRadio?quickstart=1">
+<img src="https://img.shields.io/badge/RUN-171A21?style=flat-square&logo=githubcodespaces&logoColor=C8A96A"/>
+</a>
 
-Turns a public GitHub repository into a narrated explainer video.
+<br/><br/>
 
-**Pipeline**
-
-```text
-Repository
-   ↓
-Code + README parsing
-   ↓
-LLM script generation
-   ↓
-Narration
-   ↓
-Audio alignment
-   ↓
-Remotion rendering
-   ↓
-Captioned MP4
-```
-
-`Node.js` `Python` `Remotion` `faster-whisper`
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/kh-bikash/ReadmeRadio)
-[![Codespaces](https://img.shields.io/badge/RUN_IT-000000?style=for-the-badge\&logo=githubcodespaces)](https://codespaces.new/kh-bikash/ReadmeRadio?quickstart=1)
-
-</div>
+<img src="https://img.shields.io/github/last-commit/kh-bikash/ReadmeRadio?style=flat-square&label=last%20commit&color=C8A96A&labelColor=171A21"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🌌 AIVerse</h3>
+### AIVerse
 
-<div align="center">
+<sub>An interactive workspace for understanding AI systems</sub>
 
-<a href="https://github.com/kh-bikash/Aiverse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=Aiverse&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=36BCF7"/>
-</a>
+<br/><br/>
 
-</div>
-
-An interactive AI laboratory where neural networks, attention and vision can be explored visually instead of only through text.
-
-**Idea**
+Instead of only reading about transformers, neural networks and vision, AIVerse turns those ideas into things you can explore visually.
 
 ```text
-Read AI ❌
-Watch AI ⚠️
-Interact with AI ✅
+concept
+   ↓
+visualize
+   ↓
+interact
+   ↓
+experiment
+   ↓
+understand
 ```
 
-`React` `Three.js` `D3` `Transformers`
+<sub>
+React · Three.js · D3 · Transformers
+</sub>
 
-<div align="center">
+<br/><br/>
 
-[![Repo](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/kh-bikash/Aiverse)
-[![Codespaces](https://img.shields.io/badge/OPEN_LAB-000000?style=for-the-badge\&logo=githubcodespaces)](https://codespaces.new/kh-bikash/Aiverse?quickstart=1)
+<a href="https://github.com/kh-bikash/Aiverse">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-C8A96A?style=flat-square&logo=github&logoColor=111111"/>
+</a>
 
-</div>
+<a href="https://codespaces.new/kh-bikash/Aiverse?quickstart=1">
+<img src="https://img.shields.io/badge/OPEN_LAB-171A21?style=flat-square&logo=githubcodespaces&logoColor=C8A96A"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/last-commit/kh-bikash/Aiverse?style=flat-square&label=last%20commit&color=C8A96A&labelColor=171A21"/>
 
 </td>
 
@@ -211,323 +254,374 @@ Interact with AI ✅
 
 <td width="50%" valign="top">
 
-<h3 align="center">🚀 LaunchPad</h3>
+### LaunchPad
 
-<div align="center">
+<sub>Launch operations backed by actual persisted state</sub>
+
+<br/><br/>
+
+A launch workspace built around real ownership, due dates and readiness instead of static demo dashboards.
+
+```text
+tasks + owners + deadlines
+           ↓
+       saved state
+           ↓
+  computed readiness
+           ↓
+       decisions
+```
+
+<sub>
+Next.js · Cloudflare D1 · Drizzle
+</sub>
+
+<br/><br/>
 
 <a href="https://github.com/kh-bikash/launchpad">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=launchpad&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=36BCF7"/>
+<img src="https://img.shields.io/badge/VIEW_SOURCE-C8A96A?style=flat-square&logo=github&logoColor=111111"/>
 </a>
 
-</div>
+<a href="https://github.com/kh-bikash/launchpad#watch-the-real-product-walkthrough">
+<img src="https://img.shields.io/badge/WALKTHROUGH-171A21?style=flat-square&logo=youtube&logoColor=C8A96A"/>
+</a>
 
-Launch operations without fake dashboards.
+<br/><br/>
 
-Real owners.
-Real deadlines.
-Persistent state.
-Computed readiness.
-
-`Next.js` `Cloudflare D1` `Drizzle`
-
-<div align="center">
-
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=for-the-badge\&logo=github)](https://github.com/kh-bikash/launchpad)
-[![Demo](https://img.shields.io/badge/WATCH_DEMO-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://github.com/kh-bikash/launchpad#watch-the-real-product-walkthrough)
-
-</div>
+<img src="https://img.shields.io/github/last-commit/kh-bikash/launchpad?style=flat-square&label=last%20commit&color=C8A96A&labelColor=171A21"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🎓 Nova University ERP</h3>
+### Nova University ERP
 
-<div align="center">
+<sub>One deployed workspace for university operations</sub>
 
-<a href="https://github.com/kh-bikash/nova-university-erp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kh-bikash&repo=nova-university-erp&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=36BCF7"/>
-</a>
+<br/><br/>
 
-</div>
-
-A deployed university management platform combining:
+Student, faculty and administration workflows brought together into a single system.
 
 ```text
-Students   ─┐
-Faculty    ─┤
-Admin      ─┼──► One ERP
-Library    ─┤
-Transport  ─┤
-Hostel     ─┘
+students ─────┐
+faculty  ─────┤
+attendance ───┤
+grading ──────┼── university ERP
+fees ─────────┤
+hostel ───────┤
+library ──────┘
 ```
 
-`Next.js` `PostgreSQL` `Redis` `JWT`
+<sub>
+Next.js · PostgreSQL · Redis · JWT
+</sub>
 
-<div align="center">
+<br/><br/>
 
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=for-the-badge\&logo=github)](https://github.com/kh-bikash/nova-university-erp)
-[![Live](https://img.shields.io/badge/LIVE_APP-00C7B7?style=for-the-badge\&logo=vercel\&logoColor=white)](https://nova-university-erp.vercel.app/)
+<a href="https://github.com/kh-bikash/nova-university-erp">
+<img src="https://img.shields.io/badge/VIEW_SOURCE-C8A96A?style=flat-square&logo=github&logoColor=111111"/>
+</a>
 
-</div>
+<a href="https://nova-university-erp.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_PRODUCT-171A21?style=flat-square&logo=vercel&logoColor=C8A96A"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/last-commit/kh-bikash/nova-university-erp?style=flat-square&label=last%20commit&color=C8A96A&labelColor=171A21"/>
 
 </td>
 
 </tr>
+
 </table>
 
----
-
-# 🧪 More Experiments
-
-<div align="center">
-
-| Project                                                                          | What I was trying to build                        |
-| -------------------------------------------------------------------------------- | ------------------------------------------------- |
-| 🩻 [**MedVision**](https://github.com/kh-bikash/medvision)                       | Vision pipeline → generated 3D meshes → browser   |
-| 🎨 [**Cosmic Comic Studio**](https://github.com/kh-bikash/comic-studio)          | Concurrent AI comic-panel generation + PDF export |
-| 🧊 [**AlgoGenesis 3D**](https://github.com/kh-bikash/algogenesis-3d)             | Interactive 3D algorithm visualization            |
-| 🤟 [**Sign Language Detector**](https://github.com/kh-bikash/sign_lang_detector) | Real-time CNN gesture inference through webcam    |
-
-</div>
+<br/>
 
 ---
 
-# ⚡ Tech Arsenal
+<br/>
+
+## `04 / experiments`
+
+<table>
+
+<tr>
+<td width="30%">
+<a href="https://github.com/kh-bikash/medvision"><b>MedVision ↗</b></a>
+</td>
+<td>
+Vision pipeline that moves from inference toward browser-viewable 3D output.
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/kh-bikash/comic-studio"><b>Cosmic Comic Studio ↗</b></a>
+</td>
+<td>
+Concurrent AI comic generation with style controls and PDF export.
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/kh-bikash/algogenesis-3d"><b>AlgoGenesis 3D ↗</b></a>
+</td>
+<td>
+Step-through algorithms inside an interactive 3D environment.
+</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/kh-bikash/sign_lang_detector"><b>Sign Language Detector ↗</b></a>
+</td>
+<td>
+Real-time CNN-based gesture inference directly from a webcam.
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+# `05 / stack`
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,c&theme=dark"/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic_AI-FF4B4B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_DB-00D084?style=for-the-badge"/>
+### AI / ML
 
-### Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,supabase&theme=dark"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,html,css,tailwind&theme=dark"/>
-
-### Infrastructure
-
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,githubactions,linux,git&theme=dark"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,github,postman,figma,npm&theme=dark"/>
-
-</div>
-
----
-
-# 🏗️ How I Think About AI Systems
-
-```mermaid
-flowchart LR
-    A["💡 Problem"] --> B["🧠 Model / LLM"]
-    B --> C["📚 Context / RAG"]
-    C --> D["🛠️ Tools"]
-    D --> E["🤖 Agent"]
-    E --> F["⚙️ Backend"]
-    F --> G["📊 Observability"]
-    G --> H["👤 User"]
-    H --> I["📈 Feedback"]
-    I --> A
-```
-
-<div align="center">
-
-> ### A good model is useful.
->
-> ### A good system around the model is what makes it a product.
-
-</div>
-
----
-
-# 🧩 My Build Loop
-
-```text
-                     ┌───────────────┐
-                     │     IDEA      │
-                     └───────┬───────┘
-                             ↓
-                     ┌───────────────┐
-                     │  BUILD FAST   │
-                     └───────┬───────┘
-                             ↓
-                     ┌───────────────┐
-                     │ BREAK THINGS  │
-                     └───────┬───────┘
-                             ↓
-                     ┌───────────────┐
-                     │ READ THE LOGS │
-                     └───────┬───────┘
-                             ↓
-                     ┌───────────────┐
-                     │ FIX THE REAL  │
-                     │    PROBLEM    │
-                     └───────┬───────┘
-                             ↓
-                     ┌───────────────┐
-                     │     SHIP      │
-                     └───────┬───────┘
-                             │
-                             └────────────↺
-```
-
----
-
-# 🧠 Current Operating Principles
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=700&color=36BCF7&center=true&vCenter=true&width=850&height=34&lines=01+%E2%86%92+If+it+is+featured%2C+the+code+should+be+real.;02+%E2%86%92+Test+the+actual+flow%2C+not+only+the+happy+path.;03+%E2%86%92+Build+something+visible+before+describing+it.;04+%E2%86%92+Ship+the+smallest+version+that+proves+the+idea.;05+%E2%86%92+Never+let+demo+data+pretend+to+be+a+product." />
-
-</div>
-
----
-
-# 📊 GitHub Transmission
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kh-bikash&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=36BCF7&text_color=C9D1D9&rank_icon=github"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-bikash&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=kh-bikash&theme=transparent&hide_border=true&ring=6C63FF&fire=36BCF7&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
+<img src="https://img.shields.io/badge/LangChain-171A21?style=flat-square&logo=langchain&logoColor=C8A96A"/>
+<img src="https://img.shields.io/badge/LLM_SYSTEMS-171A21?style=flat-square&logoColor=C8A96A"/>
+<img src="https://img.shields.io/badge/RAG-171A21?style=flat-square&logoColor=C8A96A"/>
+<img src="https://img.shields.io/badge/AGENTS-171A21?style=flat-square&logoColor=C8A96A"/>
+<img src="https://img.shields.io/badge/EMBEDDINGS-171A21?style=flat-square&logoColor=C8A96A"/>
+
+<br/><br/>
+
+### Product / Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,fastapi,nodejs,postgres,redis,supabase&theme=dark" />
+
+<br/><br/>
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,githubactions,linux,git&theme=dark" />
 
 </div>
 
+<br/>
+
 ---
 
-# 🏆 GitHub Trophies
+<br/>
+
+# `06 / architecture mindset`
+
+```mermaid
+flowchart LR
+    A["Problem"] --> B["Model"]
+    B --> C["Context"]
+    C --> D["Tools"]
+    D --> E["System"]
+    E --> F["Observability"]
+    F --> G["User"]
+    G --> H["Feedback"]
+    H --> A
+```
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kh-bikash&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7"/>
+### *The model is only one part of the product.*
+
+<sub>
+The rest is context, infrastructure, failure handling, evaluation and whether the user can actually rely on it.
+</sub>
 
 </div>
 
+<br/>
+
 ---
 
-# 📈 Contribution Signal
+<br/>
+
+## `07 / operating principles`
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kh-bikash&bg_color=0D1117&color=C9D1D9&line=6C63FF&point=36BCF7&area=true&area_color=6C63FF&hide_border=true"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=750&color=C8A96A&center=true&vCenter=true&width=820&height=30&lines=01+%E2%80%94+if+it+is+featured%2C+the+code+should+be+real.;02+%E2%80%94+test+the+flow%2C+not+just+the+happy+path.;03+%E2%80%94+logs+usually+tell+the+truth.;04+%E2%80%94+ship+the+smallest+version+that+proves+something.;05+%E2%80%94+never+let+demo+data+pretend+to+be+a+product."
+alt="operating principles"
+/>
 
 </div>
 
+<br/>
+
 ---
 
-# 🐍 Feeding on Contributions
+<br/>
+
+# `08 / signal`
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=kh-bikash&bg_color=0D1117&color=8B949E&line=C8A96A&point=F5F2EA&area=true&area_color=C8A96A&hide_border=true&hide_title=true"
+width="95%"
+alt="activity graph"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=kh-bikash&show_icons=true&hide_border=true&hide_title=true&bg_color=0D1117&text_color=8B949E&icon_color=C8A96A&ring_color=C8A96A"
+height="150"
+/>
+
+  
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=kh-bikash&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&text_color=8B949E&langs_count=6"
+height="150"
+/>
+
+<br/><br/>
+
+<img
+src="https://streak-stats.demolab.com?user=kh-bikash&hide_border=true&background=0D1117&ring=C8A96A&fire=C8A96A&currStreakLabel=C8A96A&sideLabels=8B949E&dates=8B949E&currStreakNum=F5F2EA&sideNums=F5F2EA"
+width="62%"
+alt="streak"
+/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+# `09 / contribution stream`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/kh-bikash/kh-bikash/output/github-contribution-grid-snake-dark.svg"
+    width="90%"
+    alt="contribution animation"
+  />
 </picture>
 
 </div>
 
+<br/>
+
 ---
 
-# 🛰️ System Status
+<br/>
+
+# `10 / status`
 
 ```yaml
-developer:
-  name: Khundrakpam Bikash Meitei
-  github: kh-bikash
+system:
+  builder: "Khundrakpam Bikash Meitei"
 
-systems:
-  agents:      ONLINE
-  llms:        ONLINE
-  rag:         ONLINE
-  backend:     ONLINE
-  docker:      ONLINE
-  curiosity:   OVERCLOCKED
+  agents:       online
+  retrieval:    online
+  backend:      online
+  containers:   online
+  curiosity:    overclocked
 
-mission:
+current_loop:
   - build
-  - understand
-  - deploy
-  - repeat
+  - test
+  - inspect
+  - rethink
+  - ship
 
-status: "probably debugging something"
+final_state: "never really final"
 ```
 
----
-
-# 🎧 While Building
-
-<div align="center">
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6c63ff&bar_color_cover=false"/>
-</a>
-
-</div>
-
-<!--
-Replace YOUR_SPOTIFY_ID above with your Spotify user ID.
-Delete this section if you don't want Spotify on your profile.
--->
+<br/>
 
 ---
 
-# 💬 Let's Build Something
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=%3E+have+an+idea%3F;%3E+need+someone+to+build+the+weird+version%3F;%3E+./collaborate.sh+--start" />
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=C8A96A&center=true&vCenter=true&width=720&height=36&lines=%3E+have+something+interesting+to+build%3F;%3E+./collaborate+--start"
+alt="collaborate"
+/>
+
+<br/>
+
+### Let's build something that deserves to exist.
 
 <br/>
 
 <a href="mailto:khbikash17@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL_ME-C8A96A?style=for-the-badge&logo=gmail&logoColor=111111"/>
 </a>
+
+ 
 
 <a href="https://www.linkedin.com/in/bikash-kh-5544ba298/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT-171A21?style=for-the-badge&logo=linkedin&logoColor=C8A96A"/>
 </a>
 
-<a href="https://github.com/kh-bikash">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+ 
+
+<a href="https://github.com/kh-bikash/kh-bikash/issues/new?title=Build%20idea%3A%20">
+<img src="https://img.shields.io/badge/PITCH_AN_IDEA-171A21?style=for-the-badge&logo=github&logoColor=C8A96A"/>
 </a>
 
-<br/><br/>
+<br/><br/><br/>
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│       Build things that work outside the screenshot.         │
-│                                                              │
-│                   github.com/kh-bikash                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<pre>
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│       BUILD THINGS THAT WORK OUTSIDE THE SCREENSHOT.       │
+│                                                            │
+│                    github.com/kh-bikash                    │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+</pre>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,19,20,24,30"/>
+<br/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A96A,30:302A20,65:171A21,100:0D1117&height=130&section=footer"
+width="100%"
+/>
 
 </div>
 ```
